@@ -10,7 +10,7 @@
 #### Pastikan versi php di atas 8.2.0
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/laravel-breeze-react.git
+git clone https://github.com/SyaefulBachtiar/Simple-Library.git
 ```
 ### 2. Setelah proses cloning selesai, masuk ke direktori proyek
 ```bash

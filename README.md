@@ -27,9 +27,10 @@ cp .env.example .env
 
 ### 5. Buat Database di phpmyadmin, lalu atur konfigurasi database di file .env:
 ```bash
-DB_DATABASE=simple_library
+DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
+DB_DATABASE=simple_library
 DB_USERNAME=<username database kamu>
 DB_PASSWORD=<password database kamu>
 ```

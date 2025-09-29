@@ -11,7 +11,6 @@
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/username/laravel-breeze-react.git
-cd laravel-breeze-react
 ```
 ### 2. Setelah proses cloning selesai, masuk ke direktori proyek
 ```bash

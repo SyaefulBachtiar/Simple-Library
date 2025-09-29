@@ -42,13 +42,13 @@ php artisan key:generate
 ```bash
 php artisan migrate
 ```
-### 8. Jalankan Laravel
-```bash
-php artisan serve
-```
-### 9. Jalankan Seeder
+### 8. Jalankan Seeder
 ```bash
 php artisan db:seed
+```
+### 9. Jalankan Laravel
+```bash
+php artisan serve
 ```
 
 

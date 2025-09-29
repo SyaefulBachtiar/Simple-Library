@@ -42,8 +42,7 @@ php artisan key:generate
 ```bash
 php artisan migrate
 ```
-### 8. Jalankan Vite dan Laravel
-## Terminal 1 jalankan Laravel
+### 8. Jalankan Laravel
 ```bash
 php artisan serve
 ```
